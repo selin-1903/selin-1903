@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @selin-1903
 - 👀 I’m interested in football, traveling, reading
-- 🌱 I’m currently learning Full Stack Engineering. Already have and Econometrics and Data Science Masters degree.
+- 🌱 I’m currently learning Full Stack Engineering. Already have an Econometrics Bachelor and Econometrics & Data Science Masters degree.
 - 💞️ I’m looking to collaborate on all kinds of projects.
 - 📫 How to reach me: just send a message :)
 
